@@ -11,6 +11,12 @@ ul {
     list-style-type: none;
 }
 
+h1, h2 {
+    font-weight: 700;
+}
+
+
+
 /* Header */
 
 .header-logo {
@@ -39,6 +45,46 @@ ul {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5; 
+    letter-spacing: 0.32px;
+}
+
+/* Main */
+
+/* Hero */
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-title {
+    color: #fff;
+    font-size: 56px;
+    line-height: 1.07; 
+    letter-spacing: 1.12px;
+    text-align: center;
+}
+
+.hero-btn {
+    background-color: #4D5AE5;
+    color: #fff;
+    font-weight: 500;
+    line-height: 1.5; 
+    letter-spacing: 0.64px;
+    cursor: pointer;
+}
+
+/* Features */
+
+.features-title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; 
+    letter-spacing: 0.4px;
+}
+
+.features-text {
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 
