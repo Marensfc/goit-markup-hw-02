@@ -50,7 +50,11 @@ h2 {
   color: #404bbf;
 }
 
-.header-address a {
+.header-address {
+  font-style: normal;
+}
+
+.header-address-item {
   color: inherit;
   font-style: normal;
   font-weight: 400;
