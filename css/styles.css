@@ -1,51 +1,50 @@
 body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
-h1, h2 {
-    font-weight: 700;
+h1,
+h2 {
+  font-weight: 700;
 }
-
-
 
 /* Header */
 
 .header-logo {
-    font-family: "Raleway" sans-serif;
-    text-transform: uppercase;
-    color: inherit;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.16; 
-    letter-spacing: 0.54px;
+  font-family: "Raleway";
+  text-transform: uppercase;
+  color: inherit;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.54px;
 }
 
 .header-accent {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
 
 .header-link {
-    color: #2E2F42;
-    font-weight: 500;
-    line-height: 1.5; 
-    letter-spacing: 0.32px;
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
 
 .header-adress a {
-    color: inherit;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5; 
-    letter-spacing: 0.32px;
+  color: inherit;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
 
 /* Main */
@@ -53,107 +52,106 @@ h1, h2 {
 /* Hero */
 
 .hero {
-    background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 
 .hero-title {
-    color: #fff;
-    font-size: 56px;
-    line-height: 1.07; 
-    letter-spacing: 1.12px;
-    text-align: center;
+  color: #fff;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+  text-align: center;
 }
 
 .hero-btn {
-    background-color: #4D5AE5;
-    color: #fff;
-    font-weight: 500;
-    line-height: 1.5; 
-    letter-spacing: 0.64px;
-    cursor: pointer;
+  background-color: #4d5ae5;
+  color: #fff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  cursor: pointer;
 }
 
 /* Features */
 
 .features-title {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.20; 
-    letter-spacing: 0.4px;
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
 }
 
 .features-text {
-    line-height: 1.5;
-    letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
 
 /* Team */
 
 .team-title {
-    color: #2E2F42;
-    font-size: 36px;
-    line-height: 1.11; 
-    letter-spacing: 0.72px;
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
 }
 
 .team-name-title {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.20; 
-    letter-spacing: 0.4px;
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
 }
 
 .team-text {
-    line-height: 1.50;
-    letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
 
 /* Portfolio */
 
 .portfolio-title {
-    color: #2E2F42;
-    font-size: 36px;
-    line-height: 1.11; 
-    letter-spacing: 0.72px;
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
 }
 
 .portfolio-item-title {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.20;
-    letter-spacing: 0.4px;
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
 }
 
 .portfolio-item-text {
-    line-height: 1.5; 
-    letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
 
 /* Footer */
 
 .footer {
-    background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 
 .footer-logo {
-    color: #F4F4FD;
-    font-family: Raleway;
-    font-size: 18px;
-    line-height: 1.16; 
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  line-height: 1.16;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 
 .footer-accent {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
 
 .footer-text {
-    color: #F4F4FD;
-    line-height: 1.5; 
-    letter-spacing: 0.32px;
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
-
